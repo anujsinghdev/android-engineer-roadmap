@@ -58,7 +58,7 @@ This comprehensive guide walks you through everything you need to become a profe
 ### 📊 Complete Learning Path
 
 ```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#3DDC84', 'primaryTextColor': '#fff', 'primaryBorderColor': '#3DDC84', 'lineColor': '#7F52FF', 'secondaryColor': '#4285F4', 'tertiaryColor': '#2b2b2b'}}}%%
+%%{init: {'theme': 'dark', 'themeVariables': { 'primaryColor': '#3DDC84', 'primaryTextColor': '#fff', 'primaryBorderColor': '#3DDC84', 'lineColor': '#7F52FF', 'secondaryColor': '#0655d4ff', 'tertiaryColor': '#e7e7e7ff'}}}%%
 mindmap
   root((🤖 Android<br/>Developer))
     📘 Fundamentals
